@@ -2,8 +2,12 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "main": "start.js",
   "hexo": {
     "version": "3.2.2"
+  },
+  "scripts": {
+    "start": "node --use_strict start.js"
   },
   "dependencies": {
     "hexo": "^3.2.0",

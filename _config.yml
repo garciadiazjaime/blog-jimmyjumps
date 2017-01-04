@@ -70,3 +70,7 @@ theme: landscape
 deploy:
   type: openshift
   repo: ssh://5866f1e77628e132ec00000d@blogjimmyjumps-giosalon.rhcloud.com/~/git/blogjimmyjumps.git
+
+server:
+  port: ${NODE_PORT}
+  ip: ${NODE_IP}
