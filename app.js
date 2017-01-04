@@ -1,6 +1,8 @@
-const env = process.env;
-const express = require('express')
-const app = express()
+const express = require('express');
+const app = express();
+const port = process.env.OPENSHIFT_NODEJS_PORT || 4000;
+const host = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
+
 
 app.use(express.static('blog/public'))
 
@@ -9,6 +11,6 @@ app.get('/health', (req, res) => {
   res.end();
 });
 
-app.listen(env.NODE_PORT || 3000, env.NODE_IP || 'localhost', () => {
-  console.log(`Application worker ${process.pid} started...`);
+app.listen(port, host, () => {
+  console.log('Server listening on http://%s:%s', host, port);
 });
