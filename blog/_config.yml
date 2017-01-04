@@ -68,5 +68,3 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: openshift
-  repo: ssh://586710650c1e666718000037@blogjimmyjumps-giosalon.rhcloud.com/~/git/blogjimmyjumps.git/

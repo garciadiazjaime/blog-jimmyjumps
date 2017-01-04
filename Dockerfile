@@ -13,4 +13,4 @@ COPY . /usr/src/app
 
 EXPOSE 4000
 
-CMD [ "./node_modules/.bin/hexo", "server" ]
+CMD [ "npm", "start" ]
