@@ -1,0 +1,52 @@
+---
+title: Viaje Chicago - Barcelona (Parte 1)
+date: 2016-12-25 14:47:55
+tags:
+---
+Hace un par de días me reuní con un amigo que tenía varios años no veía, como parte de una buena reunión no pudieron faltar los shots de tequila y el alcohol desmesurado. Durante la noche mi amigo hizo el comentario que se casaba en 3 meses y que yo estaba invitado (gracias alcohol por hacer que los amigos recuerden invitarte a su boda). El reto está en que él vive en Barcelona y yo en Chicago. Evidentemente como buen macho mexicano tuve que decir "ahuevo que sí wei", y acompañado de un apretón de manos dí mi palabra de que ahí estaría como buen amigo que soy.
+
+Sin embargo actualmente ya tengo compañera de vida, por tanto la decisión no la puedo tomar desmesuradamente, así que como buen Ingeniero y aficionado de las finanzas comencé a realizar mi planificación de costos. Una vez que la realicé y ví los primeros números me dí cuenta que me saldría más económico verme como un mal amigo, sin embargo mi parte izquierda del cerebro respaldada de mi profesión como Ingeniero de Software me dijo, y por qué no pones un blog? tienes buena documentación, compártela, seguro le ayudará a más gente, le pones unos anuncios, unos referral links y con algo de suerte esos números se reducen lo suficiente para seguir siendo buen amigo.
+
+Así que si ya llegaste hasta esta línea por favor dale click a los anuncios que verás abajo, no importa que no te gusten, lo haces porque yo lo haré cuando tu pongas tu blog platicando la historia de lo que tuviste que hacer por tus amigos.
+
+[ ads ]
+
+
+## Axiomas.
+
+- Mi amigo se casa el 4 de marzo en Barcelona.
+- Yo vivo en Chicago, USA.
+- No quiero ir únicamente a la boda.
+- Puedo pedir vacaciones en el trabajo.
+- Tengo algo de dinero ahorrado.
+- Quiero gastar lo menos posible.
+
+## Idea.
+
+Viajemos a Barcelona para la boda y aprovechando que ya dimos el brinco al charco rentemos un carro y pasemos días conociendo otras ciudades en los alrededores.
+
+![Viaje en Carro Barcelona, Bilbao, Bordeaux, Lyon, Nice y Toulousse.](/images/mapa.png)
+[Ver en google maps](https://www.google.com/maps/dir/Barcelona,+Spain/Bilbao,+Spain/Bordeaux,+France/Lyon,+France/Nice,+France/Toulouse,+France/Barcelona,+Spain/@43.7466017,-3.0036479,6z/data=!4m44!4m43!1m5!1m1!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!2m2!1d2.1734035!2d41.3850639!1m5!1m1!1s0xd4e4e27664b89b9:0x6534acc41e95a645!2m2!1d-2.9349852!2d43.2630126!1m5!1m1!1s0xd5527e8f751ca81:0x796386037b397a89!2m2!1d-0.57918!2d44.837789!1m5!1m1!1s0x47f4ea516ae88797:0x408ab2ae4bb21f0!2m2!1d4.835659!2d45.764043!1m5!1m1!1s0x12cdd0106a852d31:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12aebb6fec7552ff:0x406f69c2f411030!2m2!1d1.444209!2d43.604652!1m5!1m1!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!2m2!1d2.1734035!2d41.3850639!3e0?hl=en "Viaje en Carro Barcelona, Bilbao, Bordeaux, Lyon, Nice y Toulousse.")
+
+## Plan.
+
+- Pedir dos semanas de vacaciones.
+- Viajar Chicago - Barcelona.
+- Rentar carro en Barcelona y regresarlo en mismo lugar.
+- Conocer 6 ciudades: Barcelona, Bilbao, Bordeaux, Lyon, Nice y Toulousse.
+- Número de personas: 2.
+- Costo total del viaje: **5'700 dlls.**
+
+
+## Itinerario
+
+Existen dos Itinerarios de viaje:
+
+- Itinerario A es dejar Barcelona para el final.
+- Itinerario B es comenzar en Barcelona.
+
+Nota: El costo de ambos Itinerarios es prácticamente el mismo, sin embargo Itinerario B no incluye Toulousse.
+
+Continuar a Parte 2
+
+[ads]

@@ -1,0 +1,10 @@
+Thumbs.db
+db.json
+*.log
+node_modules/
+.deploy*/
+*.DS_Store
+bower_components
+npm-debug.log
+newrelic_agent.log
+.ruby-version
