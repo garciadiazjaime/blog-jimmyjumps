@@ -1,28 +1,70 @@
 ---
-title: 'Viaje Chicago - Barcelona, Itinerario A, Parte 2'
+title: 'Viaje Chicago - Barcelona, Itinerario (Parte 2)'
 date: 2016-12-26 15:19:34
 tags:
 ---
-[ ads ]
 
 ## Itinerario A.
 
-### Febrero 21
+### Día 1
 
-- Tomar vuelo saliendo de Chicago.
+- Tomar vuelo matutino a New York saliendo de Chicago.
+- Pasar unas horas en New York.
+- LLegar al aeropuerto JFK de New York.
+- Tomar vuelo por la noche a Barcelona
 
-### Febrero 22
+### Día 2
 
 - Llegar a Barcelona por la mañana.
-- Rentar carro en el aeropuerto.
+- Llegar a nuestro airbnb.
+- Encontrar restaurante para comer.
+- Tomar tour I
+- Encontrar una tienda para comprar alimentos.
+- Dormir temprano para recuperarnos del vuelo.
+
+### Día 3
+
+- Despertar en Barcelona.
+- Desayunar en el depa.
+- Ir a Park Guell.
+- Ir a la Sagrada Família.
+- Comer lunch preparado por nosotros.
+- Ir a Casa Mila.
+- Ir a Casa Batllo.
+- Encontrar restaurante para cenar.
+- Regresar a nuestro airbnb.
+
+### Día 4
+
+- Despertar en Barcelona.
+- Desayunar en el depa.
+- Ir a torre Agbar
+- Ir a Museo Picasso.
+- Tomar tour II
+- Ir a Fundación Miró
+- Encontrar restaurante para cenar.
+- Regresar a nuestro airbnb.
+
+### Día 5
+
+- Despertar en Barcelona.
+- Desayunar en el depa.
+- Prepararnos para el gran Evento, motivo del viaje :)
+- Boda time
+- Y nos dieron las 10 y las 11, las 12 y la 1, las 2 y las 3...
+
+### Día 6
+
+- Revivir en Barcelona.
+- Rentar carro.
 - Agarrar camino a Bilbao, es un recorrido de 6 horas.
 - Llegar a nuestro airbnb.
 - Encontrar un restaurante para comer.
 - Caminar la ciudad.
 - Encontrar una tienda para comprar alimentos.
-- Dormir temprano para recuperarnos del vuelo.
+- Dormir temprano para recuperarnos del gran evento.
 
-### Febrero 23
+### Día 7
 
 - Despertamos en Bilbao.
 - Ir al museo Guggenheim.
@@ -35,7 +77,7 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Febrero 24
+### Día 8
 
 - Seguimos en Bilbao.
 - Agarrar camino a Bordeaux, es un recorrido de 4 horas.
@@ -45,7 +87,7 @@ tags:
 - Regresar a nuestro airbnb.
 - Descansar.
 
-### Febrero 25
+### Día 9
 
 - Despertamos en Bordeux.
 - Ir al Musée du Vin et du Négoce.
@@ -57,7 +99,7 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Febrero 26
+### Día 10
 
 - Seguimos en Bordeux.
 - Agarrar camino a Lyon, es un recorrido de 4 horas.
@@ -67,7 +109,7 @@ tags:
 - Regresar a nuestro airbnb.
 - Descansar.
 
-### Febrero 27
+### Día 11
 
 - Despertamos en Lyon.
 - Ir al Musée des Confluences
@@ -79,41 +121,19 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Febrero 28
+### Día 12
 
 - Seguimos en Lyon.
-- Agarrar camino a Nice, es un recorrido de 5 horas.
+- Agarrar camino a Provence, es un recorrido de 5 horas.
 - Llegar a nuestro airbnb.
 - Caminar la ciudad.
 - Encontrar una tienda para comprar alimentos.
 - Regresar a nuestro airbnb.
 - Descansar.
 
-### Marzo 1
+### Día 13
 
-- Despertamos en Nice.
-- Ir al Jardin botanique de la Ville
-- Comer nuestro lunch.
-- Buscar buenos lugares para fotos.
-- Seguir caminando la ciudad.
-- Encontrar un buen lugar para cenar.
-- Regresar a nuestro airbnb.
-- Preparar maleta.
-- Descansar.
-
-### Marzo 2
-
-- Seguimos en Nice.
-- Agarrar camino a Toulousse, es un recorrido de 6 horas.
-- Llegar a nuestro airbnb.
-- Caminar la ciudad.
-- Encontrar una tienda para comprar alimentos.
-- Regresar a nuestro airbnb.
-- Descansar.
-
-### Marzo 3
-
-- Despertamos en Toulousse.
+- Despertamos en Provence.
 - Caminar la ciudad.
 - Comer nuestro lunch.
 - Buscar buenos lugares para fotos.
@@ -123,43 +143,28 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Marzo	4
+### Día 14
 
-- Seguimos en Toulousse.
+- Seguimos en Provence.
+- Caminar la ciudad.
+- Encontrar un buen lugar para comer.
 - Agarrar camino a Barcelona, es un recorrido de 4 horas.
-- Llegar a nuestro airbnb.
-- Caminar la ciudad.
 - Encontrar una tienda para comprar alimentos.
-- Regresar a nuestro airbnb.
-- Prepararnos para la boda del amigo.
-- Eventualmente descansar.
-
-### Marzo 5
-
-- Despertamos en Barcelona.
-- Caminar la ciudad.
-- Comer nuestro lunch.
-- Buscar buenos lugares para fotos.
-- Seguir caminando la ciudad.
 - Encontrar un buen lugar para cenar.
 - Regresar a nuestro airbnb.
+- Preparar maleta.
 - Descansar.
 
-### Marzo 6
 
-- Seguimos en Barcelona.
-- Caminar la ciudad.
-- Comer nuestro lunch.
-- Buscar buenos lugares para fotos.
-- Seguir caminando la ciudad.
-- Encontrar un buen lugar para cenar.
-- Regresar a nuestro airbnb.
-- Descansar.
-
-### Marzo 7
+### Día 15
 
 - Terminamos en Barcelona.
 - Agarrar camino al aeropuerto.
-- Tomar vuelo de regreso a Chicago.
+- Regresar carro
+- Tomar vuelo de regreso a New Jersey.
+- Llegar a New Jersey, tomar transporte público a La Guardia.
+- Tomar vuelo de La Guardia a Chicago (O'Hare).
+- LLegar a Chicago, fin :)
 
-[ ads ]
+Continuar a Parte 3: Itinerario
+Ver Post anterior: [Viaje Chicago - Barcelona.] (http://www.jimmyjumps.com/2016/12/25/Viaje-Chicago-Barcelona-Parte-1/)
