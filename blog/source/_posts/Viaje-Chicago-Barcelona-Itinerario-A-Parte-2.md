@@ -4,8 +4,6 @@ date: 2016-12-26 15:19:34
 tags:
 ---
 
-## Itinerario A.
-
 ### Día 1
 
 - Tomar vuelo matutino a New York saliendo de Chicago.
