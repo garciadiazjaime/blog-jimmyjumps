@@ -4,12 +4,18 @@ date: 2016-12-26 15:19:34
 tags:
 ---
 
-### Día 1
+El objetivo de este Post es tener un plan general de qué haremos y dónde estaremos. Ya luego entraremos en más detalle.
+Como siempre tu click en los anuncios es bien agradecido.
+
+### Día 1 - Barcelona, España.
 
 - Tomar vuelo matutino a New York saliendo de Chicago.
 - Pasar unas horas en New York.
 - LLegar al aeropuerto JFK de New York.
 - Tomar vuelo por la noche a Barcelona
+
+![Chicago-NewYork en Avión.](/images/Chicago-NewYork-en-Avion.png)
+![NewYork-Barcelona en Avión.](/images/NewYork-Barcelona-en-Avion.png)
 
 ### Día 2
 
@@ -51,16 +57,18 @@ tags:
 - Boda time
 - Y nos dieron las 10 y las 11, las 12 y la 1, las 2 y las 3...
 
-### Día 6
+### Día 6 - Bilbao, España.
 
 - Revivir en Barcelona.
-- Rentar carro.
+- Rentar carro en el aeropuerto.
 - Agarrar camino a Bilbao, es un recorrido de 6 horas.
 - Llegar a nuestro airbnb.
 - Encontrar un restaurante para comer.
 - Caminar la ciudad.
 - Encontrar una tienda para comprar alimentos.
 - Dormir temprano para recuperarnos del gran evento.
+
+![Barcelona-Bilbao en Carro.](/images/Barcelona-Bilbao-en-carro.png)
 
 ### Día 7
 
@@ -75,7 +83,7 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Día 8
+### Día 8 - Bordeaux, Francia.
 
 - Seguimos en Bilbao.
 - Agarrar camino a Bordeaux, es un recorrido de 4 horas.
@@ -85,9 +93,11 @@ tags:
 - Regresar a nuestro airbnb.
 - Descansar.
 
+![Bilbao-Bordeaux en Carro.](/images/Bilbao-Bordeaux-en-carro.png)
+
 ### Día 9
 
-- Despertamos en Bordeux.
+- Despertamos en Bordeaux.
 - Ir al Musée du Vin et du Négoce.
 - Comer nuestro lunch.
 - Buscar buenos lugares para fotos.
@@ -97,15 +107,17 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Día 10
+### Día 10 - Lyon, Francia.
 
-- Seguimos en Bordeux.
-- Agarrar camino a Lyon, es un recorrido de 4 horas.
+- Seguimos en Bordeaux.
+- Agarrar camino a Lyon, es un recorrido de 6 horas.
 - Llegar a nuestro airbnb.
 - Caminar la ciudad.
 - Encontrar una tienda para comprar alimentos.
 - Regresar a nuestro airbnb.
 - Descansar.
+
+![Bordeaux-Lyon en Carro.](/images/Bordeaux-Lyon-en-carro.png)
 
 ### Día 11
 
@@ -119,15 +131,17 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Día 12
+### Día 12 - Provence, Francia.
 
 - Seguimos en Lyon.
-- Agarrar camino a Provence, es un recorrido de 5 horas.
+- Agarrar camino a Provence, es un recorrido de 4 horas.
 - Llegar a nuestro airbnb.
-- Caminar la ciudad.
+- Ir a Carrieres de Lumieres
 - Encontrar una tienda para comprar alimentos.
 - Regresar a nuestro airbnb.
 - Descansar.
+
+![Lyon-Provence en Carro.](/images/Lyon-Provence-en-carro.png)
 
 ### Día 13
 
@@ -141,20 +155,22 @@ tags:
 - Preparar maleta.
 - Descansar.
 
-### Día 14
+### Día 14 - Barcelona, España.
 
 - Seguimos en Provence.
 - Caminar la ciudad.
 - Encontrar un buen lugar para comer.
-- Agarrar camino a Barcelona, es un recorrido de 4 horas.
+- Agarrar camino a Barcelona, es un recorrido de 6 horas.
 - Encontrar una tienda para comprar alimentos.
 - Encontrar un buen lugar para cenar.
 - Regresar a nuestro airbnb.
 - Preparar maleta.
 - Descansar.
 
+![Provence-Barcelona en Carro.](/images/Provence-Barcelona-en-carro.png)
 
-### Día 15
+
+### Día 15 - Chicago, USA.
 
 - Terminamos en Barcelona.
 - Agarrar camino al aeropuerto.
@@ -164,5 +180,9 @@ tags:
 - Tomar vuelo de La Guardia a Chicago (O'Hare).
 - LLegar a Chicago, fin :)
 
-Continuar a Parte 3: Itinerario
-Ver Post anterior: [Viaje Chicago - Barcelona.] (http://www.jimmyjumps.com/2016/12/25/Viaje-Chicago-Barcelona-Parte-1/)
+![Barcelona-NewJersey en Avión.](/images/Barcelona-NewJersey-en-Avion.png)
+![NewYork-Chicago en Avión.](/images/LaGuardia-NewYork-OHare-Chicago-Avion.png)
+
+
+Continuar a Parte 3: Viaje Chicago - Barcelona - Presupuesto
+Ver Post anterior: [Viaje Chicago - Barcelona -  Parte 1](http://www.jimmyjumps.com/2016/12/25/Viaje-Chicago-Barcelona-Parte-1/)
