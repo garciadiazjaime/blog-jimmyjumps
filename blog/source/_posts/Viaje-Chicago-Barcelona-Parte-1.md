@@ -3,7 +3,10 @@ title: Viaje Chicago - Barcelona (Parte 1)
 date: 2016-12-25 14:47:55
 tags:
 ---
-Hace un par de días me reuní con un amigo que tenía varios años no veía, como parte de una buena reunión no pudieron faltar los shots de tequila y el alcohol desmesurado. Durante la noche mi amigo hizo el comentario que se casaba en 3 meses y que yo estaba invitado (gracias alcohol por hacer que los amigos recuerden invitarte a su boda). El reto está en que él vive en Barcelona y yo en Chicago. Evidentemente como buen macho mexicano tuve que decir "ahuevo que sí wei", y acompañado de un apretón de manos dí mi palabra de que ahí estaría como buen amigo que soy.
+Hace un par de días me reuní con un amigo que tenía varios años no veía, como parte de una buena reunión no pudieron faltar los shots de tequila y el alcohol desmesurado. Durante la noche mi amigo hizo el comentario que se casaba en 3 meses y que yo estaba invitado (gracias alcohol por hacer que los amigos recuerden invitarte a su boda).
+
+<!-- more -->
+El reto está en que él vive en Barcelona y yo en Chicago. Evidentemente como buen macho mexicano tuve que decir "ahuevo que sí wei", y acompañado de un apretón de manos dí mi palabra de que ahí estaría como buen amigo que soy.
 
 Sin embargo actualmente ya tengo compañera de vida, por tanto la decisión no la puedo tomar desmesuradamente, así que como buen Ingeniero y aficionado de las finanzas comencé a realizar mi planificación de costos. Una vez que la realicé y ví los primeros números me dí cuenta que me saldría más económico verme como un mal amigo, sin embargo mi parte izquierda del cerebro respaldada de mi profesión como Ingeniero de Software me dijo, y por qué no pones un blog? tienes buena documentación, compártela, seguro le ayudará a más gente, le pones unos anuncios, unos referral links y con algo de suerte esos números se reducen lo suficiente para seguir siendo buen amigo.
 
@@ -32,6 +35,6 @@ Viajemos a Barcelona para la boda y aprovechando que ya dimos el brinco al charc
 - Rentar carro en Barcelona y regresarlo en mismo lugar.
 - Visitar 5 ciudades: Barcelona, Bilbao, Bordeaux, Lyon y Provence.
 - Número de personas: 2.
-- Presupuesto total del viaje: **5'700 dlls.**
+- Presupuesto total del viaje: **5'412 dlls.**
 
 Continuar: [Viaje Chicago - Barcelona - Itinerario - Parte 2](http://www.jimmyjumps.com/2016/12/26/Viaje-Chicago-Barcelona-Itinerario-A-Parte-2/)

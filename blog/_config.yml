@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: jimmy.jumps
-subtitle:
-description:
-author: jimmy.jumps
-language:
-timezone:
+title: Jimmy.Jumps
+subtitle: Finanza de Viajes
+description: Toda decisión que tomamos tiene un efecto financiero, en este blog hablaré de cómo poner las finanzas a nuestro favor.
+author: Jimmy.Jumps
+language: es
+timezone: America/Chicago
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.jimmyjumps.com/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -57,7 +57,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 5
 pagination_dir: page
 
 # Extensions
@@ -68,3 +68,19 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+
+sitemap:
+  path: sitemap.xml
+
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: /sitemap.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
