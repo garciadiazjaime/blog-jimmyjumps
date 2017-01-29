@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jimmy.Jumps</title>
+  <subtitle>Finanza de Viajes</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.jimmyjumps.com/"/>
+  <updated>2017-01-28T21:19:13.000Z</updated>
+  <id>http://www.jimmyjumps.com/</id>
+  
+  <author>
+    <name>Jimmy.Jumps</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Viaje Chicago - Barcelona, Presupuesto (Parte 3)</title>
+    <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Presupuesto-Parte-3/"/>
+    <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Presupuesto-Parte-3/</id>
+    <published>2017-01-28T01:59:19.000Z</published>
+    <updated>2017-01-28T21:19:13.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Es importante saber nuestros alcances económicos, definir plan y pegarnos lo más posible a él.&lt;br&gt;Conoce el presupuesto planeado para el viaje.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Viaje Chicago - Barcelona, Itinerario (Parte 2)</title>
+    <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Itinerario-Parte-2/"/>
+    <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Itinerario-Parte-2/</id>
+    <published>2016-12-26T21:19:34.000Z</published>
+    <updated>2017-01-29T20:44:24.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;El objetivo de este Post es tener un plan general de qué haremos y dónde estaremos.&lt;br&gt;Ya luego entraremos en más detalle.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Viaje Chicago - Barcelona (Parte 1)</title>
+    <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Parte-1/"/>
+    <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Parte-1/</id>
+    <published>2016-12-25T20:47:55.000Z</published>
+    <updated>2017-01-29T19:34:37.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hace un par de días me reuní con un amigo que tenía varios años no veía, como parte de una buena reunión no pudieron faltar los shots de tequila y el alcohol desmesurado. Durante la noche mi amigo hizo el comentario que se casaba en 3 meses y que yo estaba invitado (gracias alcohol por hacer que los amigos recuerden invitarte a su boda).&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
