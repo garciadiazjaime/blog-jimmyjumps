@@ -10,8 +10,8 @@ archive_a: Historial
 archive_b: "Historial: %s"
 page: Página %d
 recent_posts: Últimos Posts
-newer: El más nuevo
-older: El más viejo
+newer: Último post
+older: Primer post
 share: Compartir
 powered_by: Powered by
 rss_feed: RSS Feed
