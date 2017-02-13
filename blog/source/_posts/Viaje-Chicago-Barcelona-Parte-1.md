@@ -37,4 +37,6 @@ Viajemos a Barcelona para la boda y aprovechando que ya dimos el brinco al charc
 - Número de personas: 2.
 - Presupuesto total del viaje: **5'412 dlls.**
 
-Continuar: [Viaje Chicago - Barcelona - Itinerario - Parte 2](http://www.jimmyjumps.com/2016/12/26/Viaje-Chicago-Barcelona-Itinerario-A-Parte-2/)
+"Travel is the only thing you buy that makes you richer." – Anonymous
+
+En el próximo post hablaré más a detalle sobre el [Itinerario](/Viaje-Chicago-Barcelona-Itinerario-Parte-2/) planeado para el viaje.
