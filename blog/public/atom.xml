@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jimmy.Jumps</title>
+  <title>Jimmy.Jumps | Finanza de Viajes</title>
   <subtitle>Finanza de Viajes</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.jimmyjumps.com/"/>
-  <updated>2017-01-28T21:19:13.000Z</updated>
+  <updated>2017-02-13T02:44:47.000Z</updated>
   <id>http://www.jimmyjumps.com/</id>
   
   <author>
@@ -16,15 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Viaje Chicago - Barcelona, Boletos de Avión (Parte 4)</title>
+    <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Boletos-Avion-Parte-4/"/>
+    <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Boletos-Avion-Parte-4/</id>
+    <published>2017-01-30T22:56:11.000Z</published>
+    <updated>2017-02-13T02:44:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;El costo de los boletos de avión es el gasto más grande del presupuesto, por ello los boletos los estuve monitoreando por varios días en diferentes páginas. En este post hablaré de dónde compré los boletos y por qué los compre de esta forma.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Viaje Chicago - Barcelona, Presupuesto (Parte 3)</title>
     <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Presupuesto-Parte-3/"/>
     <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Presupuesto-Parte-3/</id>
     <published>2017-01-28T01:59:19.000Z</published>
-    <updated>2017-01-28T21:19:13.000Z</updated>
+    <updated>2017-02-13T01:43:10.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Es importante saber nuestros alcances económicos, definir plan y pegarnos lo más posible a él.&lt;br&gt;Conoce el presupuesto planeado para el viaje.&lt;br&gt;
+      &lt;p&gt;Es importante tener un presupuesto definido, pues de esta forma sabremos cuánto podemos gastar y en qué lo queremos gastar. En este post vamos hablar del presupuesto planeado para este viaje.&lt;br&gt;
     
     </summary>
     
@@ -36,11 +52,11 @@
     <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Itinerario-Parte-2/"/>
     <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Itinerario-Parte-2/</id>
     <published>2016-12-26T21:19:34.000Z</published>
-    <updated>2017-01-29T20:44:24.000Z</updated>
+    <updated>2017-02-13T02:29:41.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;El objetivo de este Post es tener un plan general de qué haremos y dónde estaremos.&lt;br&gt;Ya luego entraremos en más detalle.&lt;/p&gt;
+      &lt;p&gt;Aprovechando la excusa de la boda, vamos armar un Itinerario en la frontera de España y Francia. La idea es visitar las ciudades de Barcelona, Bilbao, Bordeaux, Lyon, Avignon, Arles, Aix en Provence y Girona.&lt;br&gt;
     
     </summary>
     
@@ -52,7 +68,7 @@
     <link href="http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Parte-1/"/>
     <id>http://www.jimmyjumps.com/Viaje-Chicago-Barcelona-Parte-1/</id>
     <published>2016-12-25T20:47:55.000Z</published>
-    <updated>2017-01-29T19:34:37.000Z</updated>
+    <updated>2017-02-13T01:20:41.000Z</updated>
     
     <summary type="html">
     
